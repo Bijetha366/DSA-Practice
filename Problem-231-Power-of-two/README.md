@@ -96,3 +96,17 @@ Checks:
 1 == 1 → true
 
 Returns: true
+
+
+Dry Run Diagram
+16
+↓
+8
+↓
+4
+↓
+2
+↓
+1
+↓
+true
